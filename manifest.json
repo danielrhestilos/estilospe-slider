@@ -1,6 +1,6 @@
 {
   "name": "slider",
-  "vendor": "vtex",
+  "vendor": "estilospe",
   "version": "0.8.3",
   "title": "VTEX Slider",
   "description": "A React Slider component that works well in SPA and SSR",
