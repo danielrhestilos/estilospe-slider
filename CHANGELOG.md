@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.9.0] - 2026-03-20
+
 ## [0.8.3] - 2021-07-08
 ### Added
 - Check to prevent call event preventDefault when the target is the sku selector.
